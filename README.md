@@ -1,2 +1,1 @@
-# PCDE-Activity-9.1
-testing the connection 
+# Repository for Activities 9.1 and 9.2
